@@ -53,6 +53,3 @@ A Spring Boot REST API for managing personal reminders.
 - Data structures and algorithms.
 - Artificial intelligence and machine learning fundamentals.
 
-### 🎯 Goals
-
-I'm looking to grow as a backend developer, contribute to real-world software projects, and gain practical experience through internships and open-source contributions.
